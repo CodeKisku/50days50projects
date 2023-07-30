@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://wallpapers.com/images/hd/art-background-arqwrsrd04lh2w9n.jpg');
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+canvas {
+  background-color: #fff;
+  border: 2px solid #333;
+  width: 80vw;
+  height: 100vh;
+}
+
+.toolbox {
+  background-color: #333;
+  border: 1px solid #000;
+  display: flex;
+  width: 85vw;
+  padding: 0.5rem;
+}
+
+.toolbox > * {
+  background-color: #fff;
+  border: none;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  height: 50px;
+  width: 50px;
+  margin: 0.25rem;
+  padding: 0.25rem;
+  cursor: pointer;
+}
+
+.toolbox > *:nth-child(4) {
+  border-radius: 0;
+}
+
+.toolbox > *:last-child {
+  margin-left: auto;
+}
