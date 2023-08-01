@@ -35,6 +35,7 @@ You can clone this repository or download it as a zip file. Then, open any of th
 | 21 | [Drag N Drop](https://github.com/CodeKisku/50days50projects/tree/master/Drag%20N%20Drop) | [View](https://codekisku.github.io/50days50projects/Drag%20N%20Drop/index.html) |
 | 22 | [Drawing App](https://github.com/CodeKisku/50days50projects/tree/master/Drawing%20App) | [View](https://codekisku.github.io/50days50projects/Drawing%20App/index.html) |
 | 23 | [Kinetic Loader](https://github.com/CodeKisku/50days50projects/tree/master/Kinetic%20Loader) | [View](https://codekisku.github.io/50days50projects/Kinetic%20Loader/index.html) |
+| 24 | [Content Placeholder](https://github.com/CodeKisku/50days50projects/tree/master/Content%20Placeholder) | [View](https://codekisku.github.io/50days50projects/Content%20Placeholder/index.html) |
 <!-- |  | [](https://github.com/CodeKisku/50days50projects/tree/master/) | [View](https://codekisku.github.io/50days50projects//index.html) | -->
 
 ## Credits
