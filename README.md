@@ -39,6 +39,7 @@ You can clone this repository or download it as a zip file. Then, open any of th
 | 25 | [Sticky Navbar](https://github.com/CodeKisku/50days50projects/tree/master/Sticky%20Navbar) | [View](https://codekisku.github.io/50days50projects/Sticky%20Navbar/index.html) |
 | 26 | [Double Vertical Slider](https://github.com/CodeKisku/50days50projects/tree/master/Double%20Vertical%20Slider) | [View](https://codekisku.github.io/50days50projects/Double%20Vertical%20Slider/index.html) |
 | 27 | [Toast Notification](https://github.com/CodeKisku/50days50projects/tree/master/Toast%20Notification) | [View](https://codekisku.github.io/50days50projects/Toast%20Notification/index.html) |
+| 28 | [Github Profiles](https://github.com/CodeKisku/50days50projects/tree/master/Github%20Profiles) | [View](https://codekisku.github.io/50days50projects/Github%20Profiles/index.html) |
 <!-- |  | [](https://github.com/CodeKisku/50days50projects/tree/master/) | [View](https://codekisku.github.io/50days50projects//index.html) | -->
 
 ## Credits
