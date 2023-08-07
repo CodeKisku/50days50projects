@@ -45,7 +45,7 @@ function addProjects() {
         var div = document.createElement("div");
         div.innerHTML = `
         <div class="project">
-          <img src=img/${imageName}.${project.imgType} alt="">
+          <a href="${title}/index.html" target="_blank"><img src=img/${imageName}.${project.imgType} alt=""></a>
           <h3 class="project-title">${title}</h3>
           <div class="project-links">
             <a href="${url}"><i class="fa-brands fa-github"></i> Github Link</a>
