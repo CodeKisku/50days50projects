@@ -1,6 +1,7 @@
 const search = document.querySelector('.search')
 const btn = document.querySelector('.btn')
 const input = document.querySelector('.input')
+const pContainer = document.getElementById('projects-container')
 
 btn.addEventListener('click', () => {
   search.classList.toggle('active')
@@ -28,4 +29,36 @@ const searchtype = () => {
 
   }
 
+}
+
+function addProjects() {
+  fetch("projects.json")
+    .then(function (response) {
+      return response.json();
+    })
+    .then(function (data) {
+      for (let project of data) {
+        const title = project.projectName
+        const imageName = title.split(" ").join("")
+        const path = title.split(" ").join("%20")
+        const url = `https://github.com/CodeKisku/50days50projects/tree/master/${path}`
+        var div = document.createElement("div");
+        div.innerHTML = `
+        <div class="project">
+          <img src=img/${imageName}.${project.imgType} alt="">
+          <h3 class="project-title">${title}</h3>
+          <div class="project-links">
+            <a href="${url}"><i class="fa-brands fa-github"></i> Github Link</a>
+            <a class="project-link" href="${title}/index.html"><i class="fa-solid fa-up-right-from-square"></i> Demo Link</a> 
+          </div>
+        </div>
+        `;
+
+        document.getElementById("projects-container").appendChild(div);
+      }
+    })
+}
+
+function bodyLoad() {
+  addProjects()
 }
