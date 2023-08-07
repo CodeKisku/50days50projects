@@ -41,6 +41,7 @@ You can clone this repository or download it as a zip file. Then, open any of th
 | 27 | [Toast Notification](https://github.com/CodeKisku/50days50projects/tree/master/Toast%20Notification) | [View](https://codekisku.github.io/50days50projects/Toast%20Notification/index.html) |
 | 28 | [Github Profiles](https://github.com/CodeKisku/50days50projects/tree/master/Github%20Profiles) | [View](https://codekisku.github.io/50days50projects/Github%20Profiles/index.html) |
 | 29 | [Double Heart Click](https://github.com/CodeKisku/50days50projects/tree/master/Double%20Heart%20Click) | [View](https://codekisku.github.io/50days50projects/Double%20Heart%20Click/index.html) |
+| 30 | [Auto Text Effect](https://github.com/CodeKisku/50days50projects/tree/master/Auto%20Text%20Effect) | [View](https://codekisku.github.io/50days50projects/Auto%20Text%20Effect/index.html) |
 <!-- |  | [](https://github.com/CodeKisku/50days50projects/tree/master/) | [View](https://codekisku.github.io/50days50projects//index.html) | -->
 
 ## Credits
