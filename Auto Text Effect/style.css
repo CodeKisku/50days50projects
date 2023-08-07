@@ -16,7 +16,32 @@ body {
   margin: 0;
 }
 
-div {
+.input-text {
+  position: absolute;
+  bottom: 100px;
+}
+
+.input-text #print-text {
+  width: 20rem;
+  padding: 5px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+}
+
+#print-text:focus {
+  outline: none;
+}
+
+#submit {
+  width: 5rem;
+  padding: 5px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+}
+
+.input-speed {
   position: absolute;
   bottom: 20px;
   background: rgba(0,0,0,0.1);
@@ -24,7 +49,7 @@ div {
   font-size: 18px;
 }
 
-input {
+.input-speed input {
   width: 50px;
   padding: 5px;
   font-size: 18px;
@@ -33,6 +58,6 @@ input {
   text-align: center;
 }
 
-input:focus {
+.input-speed input:focus {
   outline: none;
 }
