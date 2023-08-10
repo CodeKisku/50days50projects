@@ -4,36 +4,23 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Notes App</title>
+  <!-- Marked CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
   <!-- Local CSS -->
   <link rel="stylesheet" href="style.css" />  
 </head>
 <body>
   <!-- Button for adding notes -->
-  <button class="add" id="">
+  <button class="add" id="add">
     <!-- Plus icon by font awesome -->
     <i class="fas fa-plus"></i> Add Note
   </button>
 
-  <!-- Hardcoded note container to be added when above button is clicked -->
-  <div class="note">
-    <div class="tools">
-      <!-- This div conatins edit and delete buttons  -->
-      <button class="edit"><i class="fas fa-edit"></i></button>
-      <button class="delete"><i class="fas fa-trash-alt"></i></button>
-    </div>
-
-    <div class="hidden"></div>
-    <!-- This div will be used dynamically when the user is not editing text and will be set to display: none when user is not editing -->
-
-    <!-- This is the area where user will input note as text -->
-    <textarea></textarea>
-
-  </div>  
-
+  
   <!-- Font Awesome script kit -->
   <script src="https://kit.fontawesome.com/d1a84ed9ad.js" crossorigin="anonymous"></script>
-  <!-- Marked cdn script -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/7.0.1/marked.min.js" integrity="sha512-FHU3gUf70mvgIl4tnPvBmDSNmHremjYCCMsNlmuYQCytJUPOADAPjNoh7ifa/q7itNprzJnMjPMoDX2yZFNVhw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <!-- Marked CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.2.2/marked.min.js"></script>
   <!-- Local Script -->
   <script src="script.js"></script>
 </body>
