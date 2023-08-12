@@ -46,6 +46,7 @@ You can clone this repository or download it as a zip file. Then, open any of th
 | 32 | [Good Cheap Fast](https://github.com/CodeKisku/50days50projects/tree/master/Good%20Cheap%20Fast) | [View](https://codekisku.github.io/50days50projects/Good%20Cheap%20Fast/index.html) |
 | 33 | [Notes App](https://github.com/CodeKisku/50days50projects/tree/master/Notes%20App) | [View](https://codekisku.github.io/50days50projects/Notes%20App/index.html) |
 | 34 | [Animation Countdown](https://github.com/CodeKisku/50days50projects/tree/master/Animation%20Countdown) | [View](https://codekisku.github.io/50days50projects/Animation%20Countdown/index.html) |
+| 35 | [Image Carousel](https://github.com/CodeKisku/50days50projects/tree/master/Image%20Carousel) | [View](https://codekisku.github.io/50days50projects/Image%20Carousel/index.html) |
 <!-- |  | [](https://github.com/CodeKisku/50days50projects/tree/master/) | [View](https://codekisku.github.io/50days50projects//index.html) | -->
 
 ## Credits
