@@ -142,6 +142,10 @@
   {
     "projectName": "Hoverboard",
     "imgType": "gif"
+  },
+  {
+    "projectName": "Pokedex",
+    "imgType": "png"
   }
 ]
 
