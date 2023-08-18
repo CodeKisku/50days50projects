@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.background {
+  background: url(https://media.istockphoto.com/id/1456927470/photo/encryption-your-data-unique-digital-lock-big-data-security-safe-your-data-cyber-internet.jpg?s=1024x1024&w=is&k=20&c=cS6fFGxC9n9kqe0og7zP2ZTbhc5cZ0jj7JkUQJBC8lQ=) no-repeat center center/cover;
+  position: absolute;
+  top: -20px;
+  bottom: -20px;
+  left: -20px;
+  right: -20px;
+  z-index: -1;
+  filter: blur(20px);
+}
