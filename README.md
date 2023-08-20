@@ -52,6 +52,7 @@ You can clone this repository or download it as a zip file. Then, open any of th
 | 38 | [Mobile Tab Navigation](https://github.com/CodeKisku/50days50projects/tree/master/Mobile%20Tab%20Navigation) | [View](https://codekisku.github.io/50days50projects/Mobile%20Tab%20Navigation/index.html) |
 | 39 | [Password Strength Background](https://github.com/CodeKisku/50days50projects/tree/master/Password%20Strength%20Background) | [View](https://codekisku.github.io/50days50projects/Password%20Strength%20Background/index.html) |
 | 40 | [3D Background Boxes](https://github.com/CodeKisku/50days50projects/tree/master/3D%20Background%20Boxes) | [View](https://codekisku.github.io/50days50projects/3D%20Background%20Boxes/index.html) |
+| 41 | [Verify Account Ui](https://github.com/CodeKisku/50days50projects/tree/master/Verify%20Account%20Ui) | [View](https://codekisku.github.io/50days50projects/Verify%20Account%20Ui/index.html) |
 <!-- |  | [](https://github.com/CodeKisku/50days50projects/tree/master/) | [View](https://codekisku.github.io/50days50projects//index.html) | -->
 
 ## Credits
