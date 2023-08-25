@@ -56,6 +56,7 @@ You can clone this repository or download it as a zip file. Then, open any of th
 | 42 | [Live User Filter](https://github.com/CodeKisku/50days50projects/tree/master/Live%20User%20Filter) | [View](https://codekisku.github.io/50days50projects/Live%20User%20Filter/index.html) |
 | 43 | [Feedback Ui Design](https://github.com/CodeKisku/50days50projects/tree/master/Feedback%20Ui%20Design) | [View](https://codekisku.github.io/50days50projects/Feedback%20Ui%20Design/index.html) |
 | 44 | [Custom Range Slider](https://github.com/CodeKisku/50days50projects/tree/master/Custom%20Range%20Slider) | [View](https://codekisku.github.io/50days50projects/Custom%20Range%20Slider/index.html) |
+| 45 | [Netflix Mobile Navigation](https://github.com/CodeKisku/50days50projects/tree/master/Netflix%20Mobile%20Navigation) | [View](https://codekisku.github.io/50days50projects/Netflix%20Mobile%20Navigation/index.html) |
 <!-- |  | [](https://github.com/CodeKisku/50days50projects/tree/master/) | [View](https://codekisku.github.io/50days50projects//index.html) | -->
 
 ## Credits
