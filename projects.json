@@ -190,6 +190,10 @@
   {
     "projectName": "Random Image Feed",
     "imgType": "png"
+  },
+  {
+    "projectName": "Todo List",
+    "imgType": "png"
   }
 ]
 
